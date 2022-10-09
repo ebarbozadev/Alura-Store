@@ -20,12 +20,12 @@
     <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/css-grid-layout">CSS Grid: simplificando layouts</a> com <b>auxílio</b> do instrutor <b>Matheus Castiglioni</b>.</p>
     <p style="text-align: justify;">É um site que apresenta jogos, aplicativos, plataformas e lançamentos que estão em alta.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
-    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-grid-layout">aqui</a></p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-grid-layout">aqui</a>.</p>
 </section>
 
 <section id="tabela-de-conteudo">
     <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
-    <ul>
+    <ul align="justify" style="text-align="justify"">
         <li>Definir um template e criar áreas;</li>
         <li>Definir o tamanho das colunas;</li>
         <li>Definir o tamanho das linhas;</li>
@@ -42,7 +42,7 @@
         <li>Aplicar estilo no <code>hover</code> do mouse;</li>
         <li>Adicionar símbolo de <code>copyright</code>;</li>
         <li>Utilizar <code>media queries</code> para deixar site responsivo;</li>
-        <li>Aplicar diferentes regras para diferentes telas;</li>
+        <li>Aplicar diferentes regras para diferentes telas.</li>
     </ul>
 </section>
 
@@ -50,7 +50,7 @@
     <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>;</li>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>.</li>
     </ul>
 </section>
 
