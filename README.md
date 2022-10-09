@@ -34,7 +34,7 @@
         <li>Definir a quantidade das colunas;</li>
         <li>Definir a quantidade das linhas;</li>
         <li>Dizer para os elementos onde devem começar e terminar;</li>
-        <li>PDefinir espaçamento entre linhas e colunas;</li>
+        <li>Definir espaçamento entre linhas e colunas;</li>
         <li>Que é possível haver um grid dentro de outro;</li>
         <li>Calcular largura;</li>
         <li>Centralizar conteúdo;</li>
