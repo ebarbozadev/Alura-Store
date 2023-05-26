@@ -56,8 +56,7 @@
 
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
-    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://alurastore-eta.vercel.app/">aqui</a>.</p>
-    <img src="Certificado de Conclusão CSS Grid simplificando layouts.jpg">
+    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/1099891d-be4b-4b1b-9ed8-df7a193d561f">aqui</a>.</p>
 </section>
 
 <section id="autor">
